@@ -1,4 +1,11 @@
 ### Hi there 👋
+🌱 I’m Hooman Minoosepehr and I am a Full-Stack Web Developer <br/>
+🔬 I have Bachelor Degree in Chemical Engineering <br/>
+🎨 I do front-end with vanilla HTML & CSS or I can do it with React or Bootstrap <br/>
+📐 For back-end, I use Express, Node and Ruby on Rails <br/>
+🌱 I'm also learning Python 🐍 <br/>
+😍 The best thing about coding is that I don't feel the time passing when I'm coding! <br/>
+⚡ One fun fact is, I dream about the solution of my coding problems at nights! <br/>
 
 <!--
 **HoomanMinoosepehr/HoomanMinoosepehr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
