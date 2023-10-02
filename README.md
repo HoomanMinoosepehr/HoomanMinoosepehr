@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 I’m Hooman Minoosepehr and I am a Full-Stack Web Developer <br/>
 🔬 I have Bachelor's Degree in Chemical Engineering <br/>
-🎨 I do front-end with vanilla HTML & CSS or I can do it with React & Tailwind & Bootstrap <br/>
+🎨 I do front-end with vanilla HTML & CSS or I can do it with Bootstrap & React & Tailwind <br/>
 📐 For back-end, I use Express, Node and Ruby on Rails <br/>
 🌱 I'm also learning Python 🐍 <br/>
 😍 The best thing about coding is that I don't feel the time passing when coding! <br/>
